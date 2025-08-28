@@ -59,6 +59,10 @@ Meta’s LLaMA describes Machine Learning as a method for systems to automatical
 | **Cohere Command (Cohere)** | 📝 Minimalist Explainer    | Simple, direct, quick to grasp              | Limited depth, less engaging         | E-commerce product suggestions | Quick introductions, short sessions    |
 | **Meta (LLaMA/AI)**         | 🎤 Generalist Speaker      | Correct, engaging, uses familiar tools      | Generic, lacks uniqueness            | Voice assistants (Siri, Alexa) | General overviews, casual audiences    |
 
+## Comparison chart Visualise:
+
+<img width="1980" height="1180" alt="image" src="https://github.com/user-attachments/assets/07858884-e330-4524-ae15-f3d3866a330c" />
+
 
 ## Result:
 
